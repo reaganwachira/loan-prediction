@@ -17,4 +17,5 @@ Web Application for Prediction: A Flask-based interface where users can input bo
 
 ## CREDITS
 Developed by: Reagan Wachira
+
 Contributors: DSA2040 Team
